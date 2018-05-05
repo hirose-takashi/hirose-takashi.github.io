@@ -1,0 +1,2 @@
+2018.05.04
+activity_master2.htmlでは，activitiesの下にはてなブログへのリンクを追加．
