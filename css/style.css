@@ -320,7 +320,7 @@ table {
 }
 
 
-@media screen and (max-width:600px){
+@media only screen and (max-width:600px){
   body {
     font-size: 3.5vw;
   }
@@ -366,6 +366,7 @@ table {
   }
   img {
     max-width: 100%;
+    height: auto;
   }
   
   #index {
@@ -379,4 +380,5 @@ table {
 
 
 }
+
 
